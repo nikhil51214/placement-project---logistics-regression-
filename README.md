@@ -1,2 +1,2 @@
-# placement-project---logistics-regression-
+# placement-project-logistics-regression-
 end-to-end-ml
